@@ -1,4 +1,3 @@
-![Hyprcrux](https://github.com/xsghetti/dotfiles/assets/150515748/a47a8060-0bdd-45de-8e01-2f907a789b7e)
 
 <h4 align="center">Dynamically Colored by Pywal</h4>
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png">
